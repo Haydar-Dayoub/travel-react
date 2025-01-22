@@ -1,0 +1,41 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    align-items: center;
+    margin-top: 50px;
+    position: fixed;
+    width: 100vw;
+
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    color: #FFF;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.nav .active{
+    color: yellow;
+    
+}
+
+.nav ul li a{
+    color: white;
+    lighting-color: green;
+    text-decoration: none;
+}
+.nav .btn{
+    width: 150px;
+    height: 44px;
+    background-color: #DF6951;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+}
+

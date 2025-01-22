@@ -1,0 +1,48 @@
+.about4 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.about4 .about1{
+    margin-top: 50px;
+}
+.about4 h5{
+    color: #DF6951;
+    font-size: 20px;
+}
+.about4 h1{
+    font-weight: 700;
+    line-height: 48px;
+    width: 600px;
+    margin-bottom: 20px;
+    color: #181E4B;
+}
+.about4 p{
+    width: 550PX;
+    text-align:justify;
+}
+
+.about4 .two{
+    display: flex;
+    margin-top: 50px;
+    gap: 50px;
+}
+.about4 .two span{
+    padding-left: 40px;
+    font-size: 30px;
+}
+
+.about1 .three{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+
+}
+
+.about1 .three span{
+    color: #181E4B;
+    font-weight: 600;
+    font-size: 20px;
+}

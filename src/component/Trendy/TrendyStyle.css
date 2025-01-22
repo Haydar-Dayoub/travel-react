@@ -1,0 +1,22 @@
+.trendy{
+    margin: 80px   ;
+    /* text-align: center; */
+    
+
+}
+
+.trendy .tre{
+    color: #DF6951;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.trendy .pack{
+    color: #1E1D4C;;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+
+}

@@ -1,0 +1,22 @@
+.section{
+    margin-top: 100px;
+    height: 432px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.section h1{
+      font-family: "Yesteryear", cursive;
+      font-size: 160px;
+      color: white;
+      font-weight: 400;
+
+}
+.section svg{
+    position: relative;
+    right: 360px;
+}
+

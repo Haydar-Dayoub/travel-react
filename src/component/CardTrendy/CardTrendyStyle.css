@@ -1,0 +1,75 @@
+.card3{
+    width: 400px;
+    position: relative;
+    background-color: #F9F9F9 ;
+
+}
+
+.card3 .ph1{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.card3 .flag{
+    position: absolute;
+    left: 30px;
+    transform: translateY(352% );
+    background-color: white;
+    border: 1px solid white;
+    padding: 7px;
+    border-radius: 50%;
+
+    
+}
+
+
+
+ .card3 .desc .icon{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    gap: 100px;
+    color: #7D7D7D;
+    font-weight: 400;
+}
+
+.card3 .title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.card3 .title .stars{
+    margin-right: 30px;
+}
+.card3 .desc{
+    margin-left: 20px;
+
+}
+.card3 h1{
+    color: #2F2F2F;
+    font-size: 25px;
+
+}
+
+.card3 .dd{
+    width: 390px;
+    color: #5E6282;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21.4px; 
+    letter-spacing: 0.7px;
+    
+
+}
+
+.card3 .btnn{
+    background-color: #DF6951;
+    border: none;
+    margin-top: 20px;
+    padding: 13px 26px;
+    border-radius: 5px;
+    color: white;
+    
+}

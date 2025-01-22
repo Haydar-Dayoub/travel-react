@@ -1,0 +1,33 @@
+.cardsabout {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.cardsabout .about1{
+    margin-top: 50px;
+}
+.cardsabout h5{
+    color: #DF6951;
+    font-size: 20px;
+}
+.cardsabout h1{
+    font-weight: 700;
+    line-height: 48px;
+    width: 600px;
+    margin-bottom: 20px;
+    color: #181E4B;
+}
+.cardsabout p{
+    width: 550PX;
+    text-align:justify;
+}
+.cardsabout button{
+    padding: 10px 20px;
+    background-color: #DF6951;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}

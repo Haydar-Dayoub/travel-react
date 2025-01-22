@@ -1,0 +1,15 @@
+.servies{
+    margin-top: 80px ;
+    text-align: center;
+}
+
+.servies .cate{
+    color: #DF6951;
+    font-weight: 600;
+    font-size: 18px;
+}
+.servies h1{
+    color: #1E1D4C;;
+    font-weight: 700;
+    font-size: 50px;
+}
